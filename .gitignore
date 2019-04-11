@@ -1,1 +1,3 @@
+.gitignore
 css/foundation.min.css
+.DS_Store
